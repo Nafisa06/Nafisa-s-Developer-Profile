@@ -5,6 +5,7 @@
 }
 body {
   background-color: #d9dcd6;
+  display: flex;
 }
 
 .header {
@@ -32,6 +33,13 @@ body {
 }
 
 p {font-size: 25px;}
+
+.project img {
+
+  display: block;
+  position: relative;
+  justify-content: center;
+}
 
 h2  {
   font-size: 40px; 
