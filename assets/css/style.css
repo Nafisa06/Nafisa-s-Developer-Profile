@@ -56,18 +56,25 @@ h2  {
 #Email {
     background-color: lightsteelblue;
     display: inline-block;
+    font-size: 20px;
 }
 
 #Mobile {
-  background-color: darkorange;
+  background-color: lightsteelblue;
+  display: inline-block;
+  font-size: 20px;
 }
 
 
 #github {
-    background-color: lightsteelblue
+    background-color: lightsteelblue;
+    display: inline-block;
+    font-size: 20px;
 }
 
 #Linkedin {
-    background-color: darkorange;
+    background-color: lightsteelblue;
+    display: inline-block;
+    font-size: 20px;
 }
   
