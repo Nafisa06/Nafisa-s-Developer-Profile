@@ -31,14 +31,17 @@ body {
 }
 
 h2  {
-
   font-size: 40px;
-
-
-
 }
 
 .Avatar {
   
+
+}
+
+ul#details {display: inline;
+
+}
+
 
 }
