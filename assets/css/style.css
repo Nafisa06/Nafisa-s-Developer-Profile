@@ -34,11 +34,6 @@ body {
 
 p {font-size: 25px;}
 
-.desert img {
-  padding: 20px;
-  height: 200px;
-  border: 1px solid black;
-}
 
 h2  {
   font-size: 40px; 
@@ -46,6 +41,14 @@ h2  {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   background-color: #d6a43748;
   color: #ffffff;
+}
+
+. {
+  background-color: #fff;
+  width: 100%;
+  padding: 20px;
+  height: 200px;
+  border: 1px solid black;
 }
 
 
@@ -65,12 +68,18 @@ h2  {
     background-color: lightsteelblue;
     display: inline-block;
     font-size: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: 10px;
 }
 
 #Mobile {
   background-color: lightsteelblue;
   display: inline-block;
   font-size: 20px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin: 10px;
 }
 
 
@@ -78,11 +87,34 @@ h2  {
     background-color: lightsteelblue;
     display: inline-block;
     font-size: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: 10px;
 }
 
 #Linkedin {
     background-color: lightsteelblue;
     display: inline-block;
     font-size: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: 10px;
 }
-  
+@media screen and (max-width: 992px) {
+  header {
+    background: #772014;
+  }
+}
+
+
+@media screen and (max-width: 768px) {
+  nav {
+    background-color: #bb8588;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .sample-img {
+    background-color: #8ac4ff;
+  }
+}
