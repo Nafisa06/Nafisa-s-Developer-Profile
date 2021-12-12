@@ -48,4 +48,26 @@ h2  {
 .footer h2 {
   font-size: 20px;
 }
+
+.title {
+    color: darkblue;
+}
+
+#Email {
+    background-color: lightsteelblue;
+    display: inline-block;
+}
+
+#Mobile {
+  background-color: darkorange;
+}
+
+
+#github {
+    background-color: lightsteelblue
+}
+
+#Linkedin {
+    background-color: darkorange;
+}
   
