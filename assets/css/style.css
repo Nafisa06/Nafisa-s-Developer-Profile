@@ -43,13 +43,18 @@ h2  {
   color: #ffffff;
 }
 
+
+
 .project-img {
   background-color: #fff;
   width: 100%;
   padding: 10px;
   height: 400px;
   border: 1px solid black;
-}
+    }
+
+ .project-img:hover {
+  transform: scale(1.5)}
 
 .Avatar {
   border-style: solid;
@@ -60,7 +65,11 @@ h2  {
   transform: rotate(8deg);
   box-shadow: 10px 10px 5px #aaaaaa;
   margin: 20px;
+  animation:reverse
 }
+
+.Avatar:hover{
+  transform: scale(1.05)}
 
 
 .footer h2 {
