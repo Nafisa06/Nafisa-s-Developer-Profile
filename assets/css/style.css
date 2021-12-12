@@ -38,35 +38,14 @@ h2  {
   background-color: #d6a43748;
   color: #ffffff;
 }
-
-.Project-1 img {
-  max-height: 20px;
+.footer {
+  padding: 30px;
+  clear: both;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: center;
 }
 
-.Project-2 img {
-  max-height: 200px;
+.footer h2 {
+  font-size: 20px;
 }
-
-.Project-3 img {
-  max-height: 200px;
-}
-
-.Project-1 h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
-}
-
-.Project-2 h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
-}
-
-.Project-3 h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
-}
-.float-center {
-  float: center;
-  margin-right: 25px;
-}
-
+  
