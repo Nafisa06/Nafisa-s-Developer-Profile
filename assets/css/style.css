@@ -37,7 +37,8 @@ p {font-size: 25px;}
 
 h2  {
   font-size: 40px; 
-  padding: 20px;
+  padding: 40px;
+  margin: 10px;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   background-color: #d6a43748;
   color: #ffffff;
@@ -51,6 +52,7 @@ h2  {
   padding: 10px;
   height: 400px;
   border: 1px solid black;
+  justify-content: center;
     }
 
  .project-img:hover {
